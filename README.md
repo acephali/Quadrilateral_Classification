@@ -1,1 +1,2 @@
-# Quadrilateral_Classification
+You can identify quadrilaterals with this algorithm by inserting the 8 coordinates of the 4 points.
+Either read them from a data.txt file (for this approach uncomment the necessary lines) or hardcode them into the variables (change their values).
